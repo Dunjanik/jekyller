@@ -9,11 +9,10 @@ default_width: 792
 default_lang: en
 default_body_class: list
 
-author:
-    name: Yours Truly
+author: Dunja Vucenovic
     # url:  http://example.com/
-    company:
-        name: Famous Inc.
+    company: Imperial College London
+        name: Computational Regulatory group
         # url:  http://example.com/
 
 fork_url: https://github.com/shower/shower
